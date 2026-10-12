@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة أجندة ووثائق مجلس الوزراء",
+  "description": "نظام حكومي متكامل لإدارة أجندة ومحاضر وقرارات وتوجيهات مجلس الوزراء، تصنيف الوثائق حسب الحكومات والسنوات والجلسات، إدارة المستخدمين والدوائر، وتوليد قاعدة بيانات SQL Server وكود C# ASP.NET Core MVC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
